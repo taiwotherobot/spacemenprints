@@ -419,7 +419,7 @@
     // User Changeable Access
     var instagramFeedGrid = function () {
       $.instagramFeed({
-        username: "creative.devitems",
+        username: "spacemenorg",
         container: "#instagramFeed",
         display_profile: false,
         display_biography: false,
@@ -434,7 +434,7 @@
 
     var instagramFeedSlider = function () {
       $.instagramFeed({
-        username: "portfolio.devitems",
+        username: "spacemenorg",
         container: "#instagramFeedTwo",
         display_profile: false,
         display_biography: false,
@@ -449,7 +449,7 @@
 
     var instagramFeedSliderTwo = function () {
       $.instagramFeed({
-        username: "creative.devitems",
+        username: "spacemenorg",
         container: "#instagramFeedThree",
         display_profile: false,
         display_biography: false,
