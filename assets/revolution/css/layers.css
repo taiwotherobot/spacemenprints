@@ -246,7 +246,8 @@ website:   	http://www.themepunch.com
 
 .tp-caption.noshadow,.noshadow
 {
-	text-shadow:none;
+    text-shadow:none;
+    
 }
 
 .tp-caption.thinheadline_dark,.thinheadline_dark

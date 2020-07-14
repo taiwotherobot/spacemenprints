@@ -176,7 +176,7 @@ website:   	http://www.themepunch.com
 
 .rev_slider{
 	position:relative;
-	overflow:visible;
+	overflow:scroll;
 }
 
 .entry-content .rev_slider a,
@@ -417,7 +417,7 @@ website:   	http://www.themepunch.com
 .fullwidthbanner-container{
 	position:relative;
 	padding:0;
-	overflow:hidden;
+	overflow:scroll;
 }
 
 .fullwidthbanner-container .fullwidthabanner{
