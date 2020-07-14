@@ -427,7 +427,7 @@ a.scroll-top:hover {
 .site-mobile-nav .hamburger .hamburger-box .hamburger-inner, .site-mobile-nav .hamburger .hamburger-box .hamburger-inner::before, .site-mobile-nav .hamburger .hamburger-box .hamburger-inner::after {
   width: 26px;
   height: 2px;
-  background-color: #232324;
+  background-color: white;
   border-radius: 4px;
   position: absolute;
   transition: all 0.15s ease;
@@ -511,7 +511,7 @@ a.scroll-top:hover {
 
 .site-mobile-nav .dl-menu li:hover > a {
   color: #ffffff;
-  background-color: #333333;
+  background-color: white;
 }
 
 .site-mobile-nav .dl-menu li:hover > a::after {
