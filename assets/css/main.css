@@ -1104,7 +1104,7 @@ a.scroll-top:hover {
 .header-bottom-container {
   display: flex;
   align-items: center;
-  background-color: white;
+  
 }
 .header-bottom-container .logo-with-offcanvas {
   flex-basis: 20%;
